@@ -4,10 +4,15 @@
 - 🌱 I’m currently learning habitats, species, nature, agentic coding.
 - 👯 Working on open software for society with public money means public code.
 
+## About me
+
 Ever since I got stuck on black box code in industrial automation around 2010 
 I only work on open-code.  With the endless amount of open software out there. Seems obvious to me to contribute back.
 
+## current work
 As european most work is published here: [gitlab spreeker](https://gitlab.com/spreeker)
+
+## Philosophy
 
 The strategy is simple. Publish first. Free for all.
 Long live ❤️ Open Source.
