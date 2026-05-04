@@ -1,4 +1,4 @@
-## Hi there 👋 hello from a classical trained data/software - engineer @spreeker
+## 👋 Hello from a classical trained data/software - engineer @spreeker
 
 - 🔭 I’m currently working on fixing nature. 
 - 🌱 I’m currently learning habitats, species, nature, agentic coding.
