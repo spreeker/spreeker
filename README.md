@@ -9,8 +9,14 @@
 Ever since I got stuck on black box code in industrial automation around 2010 
 I only work on open-code.  With the endless amount of open software out there. Seems obvious to me to contribute back.
 
-## current work
-As european most work is published here: [gitlab spreeker](https://gitlab.com/spreeker)
+- Pervious worked there issues:
+  - Energy transition at [DEGO / VNG](https://dego.vng.nl)
+  - Safety [DOOK](https://dook.vng.nl)
+  - Municipality data [Amsterdam](https://data.amsterdam.nl)
+
+## Current work
+
+As european most current work is published here: [gitlab spreeker](https://gitlab.com/spreeker)
 
 ## Philosophy
 
