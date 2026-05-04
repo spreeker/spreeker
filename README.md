@@ -7,7 +7,7 @@
 ## About me
 
 Ever since I got stuck on black box code in industrial automation around 2010 
-I only work on open-code.  With the endless amount of open software out there. Seems obvious to me to contribute back.
+I only work on open-code. With the endless amount of open software out there. Seems obvious to me to contribute back.
 
 - Pervious worked there issues:
   - Energy transition at [DEGO.vng.nl](https://dego.vng.nl)
