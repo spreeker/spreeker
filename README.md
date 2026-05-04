@@ -1,17 +1,18 @@
-## Hi there 👋 hello from classicla trained data/software - engineer @spreeker
+## Hi there 👋 hello from a classical trained data/software - engineer @spreeker
 
 - 🔭 I’m currently working on fixing nature. 
 - 🌱 I’m currently learning habitats, species, nature, agentic coding.
+- 👯 Working on open software for society with public money means public code.
 
-Ever since I got stuck on black box code in industrial automation ~ 2011 working on PLC's. 
-I only work on open-code because with the endless amount of software out there. Seems obvious to me to contribute back.
+Ever since I got stuck on black box code in industrial automation around 2010 
+I only work on open-code.  With the endless amount of open software out there. Seems obvious to me to contribute back.
 
 As european most work is published here: [gitlab spreeker](https://gitlab.com/spreeker)
 
 The strategy is simple. Publish first. Free for all.
 Long live ❤️ Open Source.
 
-PLC work is open sourced here had around 50 million downloads for a very niche problem:
+⚡ Fun fact: The ~2010 work on PLC's is open-sourced and had around 50 million downloads for a very niche problem:
 
 https://github.com/gijzelaerr/python-snap7/
 
