@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on fixing nature. 
 - 🌱 I’m currently learning habitats, species, nature, **agentic coding**.
-- 👯 Working on open software for society with public money means public code.
+- 👯 Working on open software for society where public money means public code.
 
 ## About me
 
