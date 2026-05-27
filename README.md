@@ -1,50 +1,28 @@
-## 👋 Hello from Stephan Preeker. 
+## Stephan Preeker
 
-A classical trained data/software - engineer @spreeker
+Data and software engineer. Building open tools for nature, climate, and public data. Founder of [datalegends.nl](https://datalegends.nl).
 
-- 🔭 I’m currently working on fixing data around nature in the Netherlands. 
-- 🌱 I’m currently learning habitats, species, nature, **agentic coding**.
-- 👯 Working on open software for society where public money means public code.
-- Founder of datalegends.nl Where I create data stories
+I work on open-source software for the public sector. Public money, public code.
 
-## About me
+---
 
-I mainly work on open-code, eversince since I got stuck on black box code in industrial automation around 2010 which prevented me from doing actual work.
+### Track Record
 
-With the endless amount of open software out there. Seems obvious to me to contribute back.
+- **python-snap7** — Co-created the open-source PLC communication library. Around 50 million downloads for a niche industrial automation problem.
+- **DEGO & DOOK** — Built data platforms for energy transition and public safety, used by Dutch municipalities.
+- **Signalen.org** — Core contributor to the open-source issue reporting system used by municipalities across the Netherlands.
+- **Amsterdam Data** — Built the municipal data platform at [data.amsterdam.nl](https://data.amsterdam.nl).
 
-- Pervious worked on / created:
-  - Energy transition at [DEGO.vng.nl](https://dego.vng.nl)
-  - Safety [DOOK.vng.nl](https://dook.vng.nl)
-  - Municipality data [Amsterdam](https://data.amsterdam.nl)
-  - Public issue / repair reporting: Signalen.org [Signalen.org](https://signalen.org)
+### Current Work
 
-## Current work
+- **Nature data** — Working on biodiversity and habitat data infrastructure in the Netherlands. The current systems need improvement; I'm building better ones.
+- **AI-powered engineering** — Moving from traditional data engineering to agentic, AI-assisted tooling.
+- **datalegends.nl** — Data stories and experiments.
 
-As european citizen and avoinding `trump` cloud current work is published here: [gitlab spreeker](https://gitlab.com/spreeker)
+### Find Me
 
-## Philosophy
+- Code: [gitlab.com/spreeker](https://gitlab.com/spreeker)
+- Stories: [datalegends.nl](https://datalegends.nl)
+- Email: stephan@datalegends.nl
 
-The strategy is simple. Publish first. Free for all.
-
-Long live ❤️ Open Source.
-
-⚡ Fun fact: The ~2010 work on PLC's is open-sourced and had around 50 million downloads for a very niche problem maintained by Gijs:
-
-https://github.com/gijzelaerr/python-snap7/
-
-[![SPREEKERS GitHub stats](https://github-readme-stats.vercel.app/api?username=spreeker)](https://github.com/anuraghazra/github-readme-stats)
-<!--
-**spreeker/spreeker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=spreeker)](https://github.com/anuraghazra/github-readme-stats)
