@@ -24,5 +24,6 @@ I work on open-source software for the public sector. Public money, public code.
 - Code: [gitlab.com/spreeker](https://gitlab.com/spreeker)
 - Stories: [datalegends.nl](https://datalegends.nl)
 - Email: stephan@datalegends.nl
+- Code for NL Fellow: [codefor.nl/code-fellows](https://www.codefor.nl/code-fellows/)
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=spreeker)](https://github.com/anuraghazra/github-readme-stats)
