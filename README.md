@@ -1,16 +1,19 @@
-## 👋 Hello from a classical trained data/software - engineer @spreeker
+## 👋 Hello from Stephan Preeker. 
 
-- 🔭 I’m currently working on fixing nature. 
+A classical trained data/software - engineer @spreeker
+
+- 🔭 I’m currently working on fixing data around nature in the Netherlands. 
 - 🌱 I’m currently learning habitats, species, nature, **agentic coding**.
 - 👯 Working on open software for society where public money means public code.
+- Founder of datalegends.nl Where I create data stories
 
 ## About me
 
-I only work on open-code, since I got stuck on black box code in industrial automation around 2010 which prevented me from doing actual work.
+I mainly work on open-code, eversince since I got stuck on black box code in industrial automation around 2010 which prevented me from doing actual work.
 
 With the endless amount of open software out there. Seems obvious to me to contribute back.
 
-- Pervious worked there issues:
+- Pervious worked on / created:
   - Energy transition at [DEGO.vng.nl](https://dego.vng.nl)
   - Safety [DOOK.vng.nl](https://dook.vng.nl)
   - Municipality data [Amsterdam](https://data.amsterdam.nl)
@@ -18,11 +21,12 @@ With the endless amount of open software out there. Seems obvious to me to contr
 
 ## Current work
 
-As european current work is published here: [gitlab spreeker](https://gitlab.com/spreeker)
+As european citizen and avoinding `trump` cloud current work is published here: [gitlab spreeker](https://gitlab.com/spreeker)
 
 ## Philosophy
 
 The strategy is simple. Publish first. Free for all.
+
 Long live ❤️ Open Source.
 
 ⚡ Fun fact: The ~2010 work on PLC's is open-sourced and had around 50 million downloads for a very niche problem maintained by Gijs:
